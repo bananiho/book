@@ -19,7 +19,7 @@
 解析学1iii.測度と積分
 解析学1iv.関数解析I-III
 解析学1v.複素解析I-III
-解析学1vi.Fourier解析
+△解析学1vi.Fourier解析
 △解析学1vii.確率論I-III
 
 △解析学2i.常微分方程式I
